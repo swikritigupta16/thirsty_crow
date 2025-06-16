@@ -1,6 +1,6 @@
 # 🐦 Thirsty Crow Game
 
-A fun game *"The Thirsty Crow"*. Built using **Python** and **Pygame**.
+A basic fun game *"The Thirsty Crow"*. Built using **Python** and **Pygame**.
 
 ![image](https://github.com/user-attachments/assets/ef343435-a63d-4545-9618-98abc35f764b)
 
